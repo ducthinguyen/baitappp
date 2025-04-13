@@ -81,7 +81,7 @@ class MainActivity : ComponentActivity() {
             operator = ""
             tvResult.text = "0"
         }
-    }
+     }
     }
     
 @Composable
